@@ -12,7 +12,7 @@
       "mode": "auto",
       "program": "${file}",
       "env": {},
-      "args": []
+      "args": ["example.txt"]
     }
   ]
 }
