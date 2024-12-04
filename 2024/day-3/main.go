@@ -229,7 +229,7 @@ func calculate(tokens []Token) int {
 
 			sum += a * b
 		}
-	}
+	}…
 	return sum
 }
 
